@@ -122,3 +122,6 @@ npm run dev
 ## 许可协议
 
 [GPL](LICENSE)
+
+## action test
+PR triger #1
